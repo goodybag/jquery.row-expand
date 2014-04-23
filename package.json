@@ -1,0 +1,27 @@
+{
+  "name": "jquery.row-expand",
+  "version": "0.1.1",
+  "description": "Expand table rows for additional information related to the target table row",
+  "main": "src/jquery.preview.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/goodybag/jquery.preview.git"
+  },
+  "keywords": [
+    "jQuery",
+    "preview"
+  ],
+  "author": "John Fawcett",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/goodybag/jquery.preview/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-jshint": "~0.10.0"
+  }
+}

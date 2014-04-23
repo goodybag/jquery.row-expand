@@ -1,0 +1,21 @@
+{
+  "name": "jquery.row-expand",
+  "version": "0.1.1",
+  "homepage": "https://github.com/goodybag/jquery.row-expand",
+  "authors": [
+    "John Fawcett <jrf0110@gmail.com>"
+  ],
+  "description": "Expand table rows for additional information related to the target table row",
+  "main": "src/jquery.row-expand.js",
+  "keywords": [
+    "jQuery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
