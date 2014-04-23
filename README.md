@@ -7,7 +7,7 @@ Adds a row after the target table row with a `td` whose colspan is set to the pa
 __Install:__
 
 ```
-bower install jquery.preview
+bower install jquery.row-expand
 ```
 
 __Usage:__
