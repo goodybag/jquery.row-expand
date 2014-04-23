@@ -51,6 +51,14 @@
         return $this.find('td').length;
       }
 
+    , toggle: function(){
+        if ( plugin.$wrapper ){
+          return plugin.collapse();
+        }
+
+        return plugin.expand();
+      }
+
     , expand: function(){
         var initialHeight;
 
