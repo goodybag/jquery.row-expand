@@ -13,6 +13,7 @@ bower install jquery.preview
 __Usage:__
 
 ```html
+<button class="toggle">Toggle!</button>
 <table>
   <tr>
     <td>Data 1<td>
@@ -40,6 +41,8 @@ $(function(){
       ].join('\n');
     }
   });
+
+  $('.toggle').click( rowExpander.toggle );
 });
 ```
 
